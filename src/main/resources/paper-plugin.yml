@@ -1,0 +1,8 @@
+name: XRCUtils
+version: '1.0'
+main: com.xrcraftmc.xrcUtils.XRCUtils
+api-version: '1.21.6'
+prefix: XRCUtils
+load: STARTUP
+authors: [ Lead Developer - CADIndie ]
+website: https://xrcraftmc.com

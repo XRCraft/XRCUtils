@@ -1,0 +1,4 @@
+# Main config for XRCUtils
+
+flingPlayerOnGold: true
+giveCompassesOnJoin: true
