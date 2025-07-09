@@ -2,3 +2,4 @@
 
 flingPlayerOnGold: true
 giveCompassesOnJoin: true
+enableCustomGUIs: true

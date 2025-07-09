@@ -27,8 +27,6 @@ public class LobbyHandler {
             meta.lore(List.of(Component.text("Click to pick a game").color(NamedTextColor.DARK_AQUA)));
         });
 
-        XRCUtils.logger.info("Item names are " + lobbies.getItemMeta().customName());
-
         player.getInventory().clear();
         player.getInventory().setItem(8, lobbies);
         player.getInventory().setItem(0, games);

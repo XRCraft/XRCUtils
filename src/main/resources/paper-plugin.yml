@@ -6,3 +6,9 @@ prefix: XRCUtils
 load: STARTUP
 authors: [ Lead Developer - CADIndie ]
 website: https://xrcraftmc.com
+
+dependencies:
+  server:
+    PlaceholderAPI:
+      load: BEFORE
+      required: false
